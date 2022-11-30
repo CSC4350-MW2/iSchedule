@@ -1,0 +1,31 @@
+<html>
+<head>
+<title> Results </title>
+<h1><b>Results:</b></h1>
+ <link rel="stylesheet" href="voting.css">
+</head>
+<body>
+<h2>
+Who has voted:
+</h2>
+<h3 class=yes>
+<a href ="Calendar_Ketchum.html" class=button1>
+Ash Ketchum,</a>
+<a href ="Calendar_Brock.html" class=button1>
+Misty Brock,</a>
+<a href ="Calendar_Matta.html" class=button1>
+Ashlynne Matta</a>
+<a href ="Calendar_Clough.html" class=button1>
+Nasor Clough</a>
+</h3>
+<br>
+<h2>
+Who has not voted:
+</h2>
+<h3 class=no>
+
+<a href ="Calendar_Rocket.html" class=button1>
+Team Rocket </a>
+</h3>
+</body>
+</html>
